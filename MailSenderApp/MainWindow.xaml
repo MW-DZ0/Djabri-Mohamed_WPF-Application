@@ -1,0 +1,80 @@
+﻿<Window x:Class="MailSenderApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MailSenderApp"
+        mc:Ignorable="d"
+        Title="Gestionnaire d'Envoi de Mails" Height="550" Width="600">
+    <Grid Margin="20">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <!-- Titre -->
+        <TextBlock Grid.Row="0" Text="Envoi de Mail" 
+                   FontSize="24" FontWeight="Bold" 
+                   HorizontalAlignment="Center" Margin="0,0,0,20"/>
+
+        <!-- Adresse mail expéditeur -->
+        <StackPanel Grid.Row="1" Margin="0,5">
+            <Label Content="Votre adresse email :" FontWeight="Bold"/>
+            <TextBox x:Name="txtSenderEmail" Height="25" 
+                     ToolTip="Entrez votre adresse email"/>
+        </StackPanel>
+
+        <!-- Mot de passe / Clé d'application -->
+        <StackPanel Grid.Row="2" Margin="0,5">
+            <Label Content="Mot de passe / Clé d'application :" FontWeight="Bold"/>
+            <PasswordBox x:Name="txtPassword" Height="25"
+                         ToolTip="Entrez votre mot de passe ou clé d'application"/>
+        </StackPanel>
+
+        <!-- Adresse destinataire -->
+        <StackPanel Grid.Row="3" Margin="0,5">
+            <Label Content="Destinataire :" FontWeight="Bold"/>
+            <TextBox x:Name="txtRecipient" Height="25"
+                     ToolTip="Entrez l'adresse du destinataire"/>
+        </StackPanel>
+
+        <!-- Objet du mail -->
+        <StackPanel Grid.Row="4" Margin="0,5">
+            <Label Content="Objet :" FontWeight="Bold"/>
+            <TextBox x:Name="txtSubject" Height="25"
+                     ToolTip="Entrez l'objet du mail"/>
+        </StackPanel>
+
+        <!-- Corps du message -->
+        <StackPanel Grid.Row="5" Margin="0,5">
+            <Label Content="Message :" FontWeight="Bold"/>
+            <TextBox x:Name="txtBody" 
+                     TextWrapping="Wrap" 
+                     AcceptsReturn="True"
+                     VerticalScrollBarVisibility="Auto"
+                     ToolTip="Entrez votre message"/>
+        </StackPanel>
+
+        <!-- Bouton d'envoi -->
+        <Button Grid.Row="6" x:Name="btnSend" 
+                Content="Envoyer le Mail" 
+                Height="35" Margin="0,15,0,10"
+                FontSize="14" FontWeight="Bold"
+                Background="#4CAF50" Foreground="White"
+                Click="btnSend_Click"
+                Cursor="Hand"/>
+
+        <!-- Zone de statut -->
+        <TextBlock Grid.Row="7" x:Name="txtStatus" 
+                   TextWrapping="Wrap" 
+                   Foreground="Blue"
+                   HorizontalAlignment="Center"
+                   Margin="0,5"/>
+    </Grid>
+</Window>
