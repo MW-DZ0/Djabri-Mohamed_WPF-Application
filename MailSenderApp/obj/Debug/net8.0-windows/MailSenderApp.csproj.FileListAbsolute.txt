@@ -22,3 +22,5 @@ C:\Users\waild\OneDrive\Documents\Etude Wail 2025 2025\programmation complementa
 C:\Users\waild\OneDrive\Documents\Etude Wail 2025 2025\programmation complementaire\MailSenderApp\obj\Debug\net8.0-windows\EmailWindow.g.cs
 C:\Users\waild\OneDrive\Documents\Etude Wail 2025 2025\programmation complementaire\MailSenderApp\obj\Debug\net8.0-windows\ToDoWindow.baml
 C:\Users\waild\OneDrive\Documents\Etude Wail 2025 2025\programmation complementaire\MailSenderApp\obj\Debug\net8.0-windows\ToDoWindow.g.cs
+C:\Users\waild\OneDrive\Documents\Etude Wail 2025 2025\programmation complementaire\MailSenderApp\obj\Debug\net8.0-windows\StopwatchWindow.baml
+C:\Users\waild\OneDrive\Documents\Etude Wail 2025 2025\programmation complementaire\MailSenderApp\obj\Debug\net8.0-windows\StopwatchWindow.g.cs

@@ -34,6 +34,11 @@ namespace MailSenderApp
             ToDoWindow todoWindow = new ToDoWindow();
             todoWindow.ShowDialog();
         }
+        private void MenuStopwatch_Click(object sender, RoutedEventArgs e)
+        {
+            StopwatchWindow stopwatchWindow = new StopwatchWindow();
+            stopwatchWindow.ShowDialog();
+        }
 
         private void MenuQuitter_Click(object sender, RoutedEventArgs e)
         {

@@ -3,12 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\waild\\OneDrive\\Documents\\Etude Wail 2025 2025\\programmation complementaire\\MailSenderApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0F9FEC95-71B4-41F3-A278-D7FA30D88C2B}|MailSenderApp.csproj|c:\\users\\waild\\onedrive\\documents\\etude wail 2025 2025\\programmation complementaire\\mailsenderapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F9FEC95-71B4-41F3-A278-D7FA30D88C2B}|MailSenderApp.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0F9FEC95-71B4-41F3-A278-D7FA30D88C2B}|MailSenderApp.csproj|c:\\users\\waild\\onedrive\\documents\\etude wail 2025 2025\\programmation complementaire\\mailsenderapp\\stopwatchwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0F9FEC95-71B4-41F3-A278-D7FA30D88C2B}|MailSenderApp.csproj|solutionrelative:stopwatchwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F9FEC95-71B4-41F3-A278-D7FA30D88C2B}|MailSenderApp.csproj|c:\\users\\waild\\onedrive\\documents\\etude wail 2025 2025\\programmation complementaire\\mailsenderapp\\stopwatchviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F9FEC95-71B4-41F3-A278-D7FA30D88C2B}|MailSenderApp.csproj|solutionrelative:stopwatchviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F9FEC95-71B4-41F3-A278-D7FA30D88C2B}|MailSenderApp.csproj|c:\\users\\waild\\onedrive\\documents\\etude wail 2025 2025\\programmation complementaire\\mailsenderapp\\stopwatchwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F9FEC95-71B4-41F3-A278-D7FA30D88C2B}|MailSenderApp.csproj|solutionrelative:stopwatchwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0F9FEC95-71B4-41F3-A278-D7FA30D88C2B}|MailSenderApp.csproj|c:\\users\\waild\\onedrive\\documents\\etude wail 2025 2025\\programmation complementaire\\mailsenderapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{0F9FEC95-71B4-41F3-A278-D7FA30D88C2B}|MailSenderApp.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F9FEC95-71B4-41F3-A278-D7FA30D88C2B}|MailSenderApp.csproj|c:\\users\\waild\\onedrive\\documents\\etude wail 2025 2025\\programmation complementaire\\mailsenderapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F9FEC95-71B4-41F3-A278-D7FA30D88C2B}|MailSenderApp.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F9FEC95-71B4-41F3-A278-D7FA30D88C2B}|MailSenderApp.csproj|c:\\users\\waild\\onedrive\\documents\\etude wail 2025 2025\\programmation complementaire\\mailsenderapp\\emailwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F9FEC95-71B4-41F3-A278-D7FA30D88C2B}|MailSenderApp.csproj|solutionrelative:emailwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F9FEC95-71B4-41F3-A278-D7FA30D88C2B}|MailSenderApp.csproj|c:\\users\\waild\\onedrive\\documents\\etude wail 2025 2025\\programmation complementaire\\mailsenderapp\\emailwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0F9FEC95-71B4-41F3-A278-D7FA30D88C2B}|MailSenderApp.csproj|solutionrelative:emailwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F9FEC95-71B4-41F3-A278-D7FA30D88C2B}|MailSenderApp.csproj|c:\\users\\waild\\onedrive\\documents\\etude wail 2025 2025\\programmation complementaire\\mailsenderapp\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F9FEC95-71B4-41F3-A278-D7FA30D88C2B}|MailSenderApp.csproj|solutionrelative:relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0F9FEC95-71B4-41F3-A278-D7FA30D88C2B}|MailSenderApp.csproj|c:\\users\\waild\\onedrive\\documents\\etude wail 2025 2025\\programmation complementaire\\mailsenderapp\\todowindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,14 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{0F9FEC95-71B4-41F3-A278-D7FA30D88C2B}|MailSenderApp.csproj|c:\\users\\waild\\onedrive\\documents\\etude wail 2025 2025\\programmation complementaire\\mailsenderapp\\todowindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{0F9FEC95-71B4-41F3-A278-D7FA30D88C2B}|MailSenderApp.csproj|solutionrelative:todowindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0F9FEC95-71B4-41F3-A278-D7FA30D88C2B}|MailSenderApp.csproj|c:\\users\\waild\\onedrive\\documents\\etude wail 2025 2025\\programmation complementaire\\mailsenderapp\\emailwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{0F9FEC95-71B4-41F3-A278-D7FA30D88C2B}|MailSenderApp.csproj|solutionrelative:emailwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0F9FEC95-71B4-41F3-A278-D7FA30D88C2B}|MailSenderApp.csproj|c:\\users\\waild\\onedrive\\documents\\etude wail 2025 2025\\programmation complementaire\\mailsenderapp\\emailwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0F9FEC95-71B4-41F3-A278-D7FA30D88C2B}|MailSenderApp.csproj|solutionrelative:emailwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -43,6 +59,56 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "StopwatchWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\waild\\OneDrive\\Documents\\Etude Wail 2025 2025\\programmation complementaire\\MailSenderApp\\StopwatchWindow.xaml.cs",
+              "RelativeDocumentMoniker": "StopwatchWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\waild\\OneDrive\\Documents\\Etude Wail 2025 2025\\programmation complementaire\\MailSenderApp\\StopwatchWindow.xaml.cs",
+              "RelativeToolTip": "StopwatchWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T08:24:35.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StopwatchWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\waild\\OneDrive\\Documents\\Etude Wail 2025 2025\\programmation complementaire\\MailSenderApp\\StopwatchWindow.xaml",
+              "RelativeDocumentMoniker": "StopwatchWindow.xaml",
+              "ToolTip": "C:\\Users\\waild\\OneDrive\\Documents\\Etude Wail 2025 2025\\programmation complementaire\\MailSenderApp\\StopwatchWindow.xaml",
+              "RelativeToolTip": "StopwatchWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-09T08:09:34.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StopwatchViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\waild\\OneDrive\\Documents\\Etude Wail 2025 2025\\programmation complementaire\\MailSenderApp\\StopwatchViewModel.cs",
+              "RelativeDocumentMoniker": "StopwatchViewModel.cs",
+              "ToolTip": "C:\\Users\\waild\\OneDrive\\Documents\\Etude Wail 2025 2025\\programmation complementaire\\MailSenderApp\\StopwatchViewModel.cs",
+              "RelativeToolTip": "StopwatchViewModel.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAADwv4IAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T08:07:47.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\waild\\OneDrive\\Documents\\Etude Wail 2025 2025\\programmation complementaire\\MailSenderApp\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "RelayCommand.cs",
+              "ToolTip": "C:\\Users\\waild\\OneDrive\\Documents\\Etude Wail 2025 2025\\programmation complementaire\\MailSenderApp\\RelayCommand.cs",
+              "RelativeToolTip": "RelayCommand.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T08:02:37.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "ToDoWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\waild\\OneDrive\\Documents\\Etude Wail 2025 2025\\programmation complementaire\\MailSenderApp\\ToDoWindow.xaml.cs",
               "RelativeDocumentMoniker": "ToDoWindow.xaml.cs",
@@ -50,20 +116,18 @@
               "RelativeToolTip": "ToDoWindow.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T18:52:46.444Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-08T18:52:46.444Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "ToDoWindow.xaml",
               "DocumentMoniker": "C:\\Users\\waild\\OneDrive\\Documents\\Etude Wail 2025 2025\\programmation complementaire\\MailSenderApp\\ToDoWindow.xaml",
               "RelativeDocumentMoniker": "ToDoWindow.xaml",
               "ToolTip": "C:\\Users\\waild\\OneDrive\\Documents\\Etude Wail 2025 2025\\programmation complementaire\\MailSenderApp\\ToDoWindow.xaml",
               "RelativeToolTip": "ToDoWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-10-08T18:52:01.904Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-08T18:52:01.904Z"
             },
             {
               "$type": "Document",
@@ -73,47 +137,43 @@
               "RelativeDocumentMoniker": "EmailWindow.xaml.cs",
               "ToolTip": "C:\\Users\\waild\\OneDrive\\Documents\\Etude Wail 2025 2025\\programmation complementaire\\MailSenderApp\\EmailWindow.xaml.cs",
               "RelativeToolTip": "EmailWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAwBEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-08T18:48:15.618Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-08T18:48:15.618Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "EmailWindow.xaml",
               "DocumentMoniker": "C:\\Users\\waild\\OneDrive\\Documents\\Etude Wail 2025 2025\\programmation complementaire\\MailSenderApp\\EmailWindow.xaml",
               "RelativeDocumentMoniker": "EmailWindow.xaml",
               "ToolTip": "C:\\Users\\waild\\OneDrive\\Documents\\Etude Wail 2025 2025\\programmation complementaire\\MailSenderApp\\EmailWindow.xaml",
               "RelativeToolTip": "EmailWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-10-08T18:47:43.476Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-08T18:47:43.476Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\waild\\OneDrive\\Documents\\Etude Wail 2025 2025\\programmation complementaire\\MailSenderApp\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
               "ToolTip": "C:\\Users\\waild\\OneDrive\\Documents\\Etude Wail 2025 2025\\programmation complementaire\\MailSenderApp\\MainWindow.xaml",
               "RelativeToolTip": "MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-09-29T20:45:38.052Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-29T20:45:38.052Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\waild\\OneDrive\\Documents\\Etude Wail 2025 2025\\programmation complementaire\\MailSenderApp\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\waild\\OneDrive\\Documents\\Etude Wail 2025 2025\\programmation complementaire\\MailSenderApp\\MainWindow.xaml.cs",
               "RelativeToolTip": "MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAAAmwCcAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-29T20:45:34.999Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-29T20:45:34.999Z"
             }
           ]
         }

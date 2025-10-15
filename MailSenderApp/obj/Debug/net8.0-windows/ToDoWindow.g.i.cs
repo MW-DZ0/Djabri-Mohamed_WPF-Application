@@ -84,7 +84,7 @@ namespace MailSenderApp {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/MailSenderApp;component/todowindow.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/MailSenderApp;V1.0.0.0;component/todowindow.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\ToDoWindow.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
