@@ -56,5 +56,11 @@ namespace MailSenderApp
                           MessageBoxButton.OK,
                           MessageBoxImage.Information);
         }
+
+        private void MenuReseau_Click(object sender, RoutedEventArgs e)
+        {
+            CommunicationRéseau communicationRéseau = new CommunicationRéseau();
+            communicationRéseau.ShowDialog();
+        }
     }
 }
