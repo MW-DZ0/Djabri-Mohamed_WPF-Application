@@ -1,0 +1,16 @@
+C:\Users\waild\source\repos\Poker_Game\bin\Debug\Poker_Game.exe.config
+C:\Users\waild\source\repos\Poker_Game\bin\Debug\Poker_Game.exe
+C:\Users\waild\source\repos\Poker_Game\bin\Debug\Poker_Game.pdb
+C:\Users\waild\source\repos\Poker_Game\obj\Debug\Poker_Game.csproj.AssemblyReference.cache
+C:\Users\waild\source\repos\Poker_Game\obj\Debug\Poker_Game.Properties.Resources.resources
+C:\Users\waild\source\repos\Poker_Game\obj\Debug\Poker_Game.csproj.GenerateResource.cache
+C:\Users\waild\source\repos\Poker_Game\obj\Debug\Poker_Game.csproj.CoreCompileInputs.cache
+C:\Users\waild\source\repos\Poker_Game\obj\Debug\Poker_Game.exe
+C:\Users\waild\source\repos\Poker_Game\obj\Debug\Poker_Game.pdb
+C:\Users\waild\source\repos\Poker_Game\obj\Debug\Poker_Game.ConfigPartiecs.resources
+C:\Users\waild\source\repos\Poker_Game\obj\Debug\Poker_Game.MenuPrincipal.resources
+C:\Users\waild\source\repos\Poker_Game\obj\Debug\Poker_Game.JeuPoker.resources
+C:\Users\waild\source\repos\Poker_Game\obj\Debug\Poker_Game.exe.config
+C:\Users\waild\source\repos\Poker_Game\bin\Debug\Newtonsoft.Json.dll
+C:\Users\waild\source\repos\Poker_Game\bin\Debug\Newtonsoft.Json.xml
+C:\Users\waild\source\repos\Poker_Game\obj\Debug\Poker_Game.csproj.Up2Date

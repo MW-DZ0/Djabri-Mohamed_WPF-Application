@@ -1,0 +1,285 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\waild\\source\\repos\\Poker_Game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71BC61B2-7529-4361-8602-ECCCAB1B2D99}|Poker_Game.csproj|C:\\Users\\waild\\source\\repos\\Poker_Game\\jeupoker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71BC61B2-7529-4361-8602-ECCCAB1B2D99}|Poker_Game.csproj|solutionrelative:jeupoker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71BC61B2-7529-4361-8602-ECCCAB1B2D99}|Poker_Game.csproj|c:\\users\\waild\\source\\repos\\poker_game\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71BC61B2-7529-4361-8602-ECCCAB1B2D99}|Poker_Game.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71BC61B2-7529-4361-8602-ECCCAB1B2D99}|Poker_Game.csproj|C:\\Users\\waild\\source\\repos\\Poker_Game\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{71BC61B2-7529-4361-8602-ECCCAB1B2D99}|Poker_Game.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71BC61B2-7529-4361-8602-ECCCAB1B2D99}|Poker_Game.csproj|C:\\Users\\waild\\source\\repos\\Poker_Game\\pokerserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71BC61B2-7529-4361-8602-ECCCAB1B2D99}|Poker_Game.csproj|solutionrelative:pokerserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71BC61B2-7529-4361-8602-ECCCAB1B2D99}|Poker_Game.csproj|C:\\Users\\waild\\source\\repos\\Poker_Game\\jeupoker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{71BC61B2-7529-4361-8602-ECCCAB1B2D99}|Poker_Game.csproj|solutionrelative:jeupoker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71BC61B2-7529-4361-8602-ECCCAB1B2D99}|Poker_Game.csproj|C:\\Users\\waild\\source\\repos\\Poker_Game\\handrank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71BC61B2-7529-4361-8602-ECCCAB1B2D99}|Poker_Game.csproj|solutionrelative:handrank.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71BC61B2-7529-4361-8602-ECCCAB1B2D99}|Poker_Game.csproj|C:\\Users\\waild\\source\\repos\\Poker_Game\\handresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71BC61B2-7529-4361-8602-ECCCAB1B2D99}|Poker_Game.csproj|solutionrelative:handresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71BC61B2-7529-4361-8602-ECCCAB1B2D99}|Poker_Game.csproj|C:\\Users\\waild\\source\\repos\\Poker_Game\\handevaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71BC61B2-7529-4361-8602-ECCCAB1B2D99}|Poker_Game.csproj|solutionrelative:handevaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71BC61B2-7529-4361-8602-ECCCAB1B2D99}|Poker_Game.csproj|C:\\Users\\waild\\source\\repos\\Poker_Game\\gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71BC61B2-7529-4361-8602-ECCCAB1B2D99}|Poker_Game.csproj|solutionrelative:gamestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71BC61B2-7529-4361-8602-ECCCAB1B2D99}|Poker_Game.csproj|C:\\Users\\waild\\source\\repos\\Poker_Game\\playeraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71BC61B2-7529-4361-8602-ECCCAB1B2D99}|Poker_Game.csproj|solutionrelative:playeraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71BC61B2-7529-4361-8602-ECCCAB1B2D99}|Poker_Game.csproj|C:\\Users\\waild\\source\\repos\\Poker_Game\\pokerclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71BC61B2-7529-4361-8602-ECCCAB1B2D99}|Poker_Game.csproj|solutionrelative:pokerclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71BC61B2-7529-4361-8602-ECCCAB1B2D99}|Poker_Game.csproj|C:\\Users\\waild\\source\\repos\\Poker_Game\\prompt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71BC61B2-7529-4361-8602-ECCCAB1B2D99}|Poker_Game.csproj|solutionrelative:prompt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71BC61B2-7529-4361-8602-ECCCAB1B2D99}|Poker_Game.csproj|C:\\Users\\waild\\source\\repos\\Poker_Game\\networkconfigform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71BC61B2-7529-4361-8602-ECCCAB1B2D99}|Poker_Game.csproj|solutionrelative:networkconfigform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71BC61B2-7529-4361-8602-ECCCAB1B2D99}|Poker_Game.csproj|C:\\Users\\waild\\source\\repos\\Poker_Game\\configpartiecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71BC61B2-7529-4361-8602-ECCCAB1B2D99}|Poker_Game.csproj|solutionrelative:configpartiecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71BC61B2-7529-4361-8602-ECCCAB1B2D99}|Poker_Game.csproj|C:\\Users\\waild\\source\\repos\\Poker_Game\\joueur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71BC61B2-7529-4361-8602-ECCCAB1B2D99}|Poker_Game.csproj|solutionrelative:joueur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71BC61B2-7529-4361-8602-ECCCAB1B2D99}|Poker_Game.csproj|C:\\Users\\waild\\source\\repos\\Poker_Game\\configpartiecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{71BC61B2-7529-4361-8602-ECCCAB1B2D99}|Poker_Game.csproj|solutionrelative:configpartiecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JeuPoker.cs",
+              "DocumentMoniker": "C:\\Users\\waild\\source\\repos\\Poker_Game\\JeuPoker.cs",
+              "RelativeDocumentMoniker": "JeuPoker.cs",
+              "ToolTip": "C:\\Users\\waild\\source\\repos\\Poker_Game\\JeuPoker.cs",
+              "RelativeToolTip": "JeuPoker.cs",
+              "ViewState": "AgIAADcCAAAAAAAAAAAgwEoCAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T08:50:20.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HandRank.cs",
+              "DocumentMoniker": "C:\\Users\\waild\\source\\repos\\Poker_Game\\HandRank.cs",
+              "RelativeDocumentMoniker": "HandRank.cs",
+              "ToolTip": "C:\\Users\\waild\\source\\repos\\Poker_Game\\HandRank.cs",
+              "RelativeToolTip": "HandRank.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T11:20:58.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PokerClient.cs",
+              "DocumentMoniker": "C:\\Users\\waild\\source\\repos\\Poker_Game\\PokerClient.cs",
+              "RelativeDocumentMoniker": "PokerClient.cs",
+              "ToolTip": "C:\\Users\\waild\\source\\repos\\Poker_Game\\PokerClient.cs",
+              "RelativeToolTip": "PokerClient.cs",
+              "ViewState": "AgIAAJsAAAAAAAAAAAAQwLMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T14:12:17.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Prompt.cs",
+              "DocumentMoniker": "C:\\Users\\waild\\source\\repos\\Poker_Game\\Prompt.cs",
+              "RelativeDocumentMoniker": "Prompt.cs",
+              "ToolTip": "C:\\Users\\waild\\source\\repos\\Poker_Game\\Prompt.cs",
+              "RelativeToolTip": "Prompt.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T14:58:01.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\waild\\source\\repos\\Poker_Game\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\waild\\source\\repos\\Poker_Game\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T08:52:46.853Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HandResult.cs",
+              "DocumentMoniker": "C:\\Users\\waild\\source\\repos\\Poker_Game\\HandResult.cs",
+              "RelativeDocumentMoniker": "HandResult.cs",
+              "ToolTip": "C:\\Users\\waild\\source\\repos\\Poker_Game\\HandResult.cs",
+              "RelativeToolTip": "HandResult.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T11:21:51.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NetworkConfigForm.cs",
+              "DocumentMoniker": "C:\\Users\\waild\\source\\repos\\Poker_Game\\NetworkConfigForm.cs",
+              "RelativeDocumentMoniker": "NetworkConfigForm.cs",
+              "ToolTip": "C:\\Users\\waild\\source\\repos\\Poker_Game\\NetworkConfigForm.cs",
+              "RelativeToolTip": "NetworkConfigForm.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAQwJ8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-08T21:57:04.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HandEvaluator.cs",
+              "DocumentMoniker": "C:\\Users\\waild\\source\\repos\\Poker_Game\\HandEvaluator.cs",
+              "RelativeDocumentMoniker": "HandEvaluator.cs",
+              "ToolTip": "C:\\Users\\waild\\source\\repos\\Poker_Game\\HandEvaluator.cs",
+              "RelativeToolTip": "HandEvaluator.cs",
+              "ViewState": "AgIAAKQAAAAAAAAAAAAQwLwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-18T11:22:40.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GameState.cs",
+              "DocumentMoniker": "C:\\Users\\waild\\source\\repos\\Poker_Game\\GameState.cs",
+              "RelativeDocumentMoniker": "GameState.cs",
+              "ToolTip": "C:\\Users\\waild\\source\\repos\\Poker_Game\\GameState.cs",
+              "RelativeToolTip": "GameState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T14:08:34.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PlayerAction.cs",
+              "DocumentMoniker": "C:\\Users\\waild\\source\\repos\\Poker_Game\\PlayerAction.cs",
+              "RelativeDocumentMoniker": "PlayerAction.cs",
+              "ToolTip": "C:\\Users\\waild\\source\\repos\\Poker_Game\\PlayerAction.cs",
+              "RelativeToolTip": "PlayerAction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T14:09:40.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PokerServer.cs",
+              "DocumentMoniker": "C:\\Users\\waild\\source\\repos\\Poker_Game\\PokerServer.cs",
+              "RelativeDocumentMoniker": "PokerServer.cs",
+              "ToolTip": "C:\\Users\\waild\\source\\repos\\Poker_Game\\PokerServer.cs",
+              "RelativeToolTip": "PokerServer.cs",
+              "ViewState": "AgIAAJIAAAAAAAAAAAA1wJwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T14:10:23.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\waild\\source\\repos\\Poker_Game\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\waild\\source\\repos\\Poker_Game\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAA7wCUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T09:05:03.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JeuPoker.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\waild\\source\\repos\\Poker_Game\\JeuPoker.cs",
+              "RelativeDocumentMoniker": "JeuPoker.cs",
+              "ToolTip": "C:\\Users\\waild\\source\\repos\\Poker_Game\\JeuPoker.cs [Design]",
+              "RelativeToolTip": "JeuPoker.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T08:50:11.587Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ConfigPartiecs.cs",
+              "DocumentMoniker": "C:\\Users\\waild\\source\\repos\\Poker_Game\\ConfigPartiecs.cs",
+              "RelativeDocumentMoniker": "ConfigPartiecs.cs",
+              "ToolTip": "C:\\Users\\waild\\source\\repos\\Poker_Game\\ConfigPartiecs.cs",
+              "RelativeToolTip": "ConfigPartiecs.cs",
+              "ViewState": "AgIAAMwAAAAAAAAAAAAYwOUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T08:33:41.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ConfigPartiecs.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\waild\\source\\repos\\Poker_Game\\ConfigPartiecs.cs",
+              "RelativeDocumentMoniker": "ConfigPartiecs.cs",
+              "ToolTip": "C:\\Users\\waild\\source\\repos\\Poker_Game\\ConfigPartiecs.cs [Design]",
+              "RelativeToolTip": "ConfigPartiecs.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T08:30:08.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Joueur.cs",
+              "DocumentMoniker": "C:\\Users\\waild\\source\\repos\\Poker_Game\\Joueur.cs",
+              "RelativeDocumentMoniker": "Joueur.cs",
+              "ToolTip": "C:\\Users\\waild\\source\\repos\\Poker_Game\\Joueur.cs",
+              "RelativeToolTip": "Joueur.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA6wB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T09:00:36.144Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
